@@ -10,7 +10,7 @@
 
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
-Признаки
+# Описание данных  
 - `RowNumber` — индекс строки в данных  
 - `CustomerId` — уникальный идентификатор клиента  
 - `Surname` — фамилия  
